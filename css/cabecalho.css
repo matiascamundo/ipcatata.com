@@ -1,0 +1,92 @@
+body{
+	background-color: rgb(175, 175, 146);
+	font-family: Arial, Helvetica, sans-serif;
+	margin:0;
+  font-size: 20px;
+}
+
+h1{
+color:white;	
+background-color: black;
+padding: 10px 0px;
+width: 40px
+float:left;
+margin:0;
+
+}
+h2{
+color:blue;	
+background-color: lightblue;
+ border-radius: 8px;
+ margin:;
+}
+p{
+	font-size:110%; 
+	color:blue;
+	width: 40%;
+}
+.historial{
+	 border:10px ;
+    border-radius:15px;
+    background: linear-gradient (to top, #5BA691, #96D9AD);
+    width: 300px;
+    height: 50px;
+    cursor:pointer;
+    color:blue;
+    font-size: 20px;
+    box-shadow: inset 0px 1px 0px #fff, 0px 3px 1px #038c7E;
+    background-color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.pauta{
+	 border:10px ;
+    border-radius:15px;
+    background: linear-gradient (to top, #5BA691, #96D9AD);
+    width: 300px;
+    height: 50px;
+    cursor:pointer;
+    color:blue;
+    font-size: 20px;
+    box-shadow: inset 0px 1px 0px #fff, 0px 3px 1px #038c7E;
+    background-color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+   }
+
+    h3, h4{
+font-size: 15px;
+color:white;	
+background-color: black;
+padding: 10px 0px;
+width: 40px
+float:left;
+margin:0; 
+}
+ .submit{
+    border: 0;
+    border-radius: 10px;
+    background: linear-gradient (to top, #5BA691, #96D9AD);
+    width: 80px;
+    height: 20px;
+    cursor:pointer;
+    color:blue;
+    font-size: 15px;
+    box-shadow: inset 0px 1px 0px #fff, 0px 3px 1px #038c7E;
+    background-color: white;
+   }
+   .classe_actual{
+     border-radius: 10px;
+      width: 200px;
+      height: 20px;
+      box-shadow: inset 0px 1px 0px #fff, 0px 2px 1px #038c7E;
+   }
+
+   .menu-estilo{
+  list-style: none;
+  padding-left: 0;
+}
+
+.menu-estilo li {
+  float:left;
+}
